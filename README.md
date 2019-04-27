@@ -1,2 +1,2 @@
-# Initial page
+# 数学笔记
 
